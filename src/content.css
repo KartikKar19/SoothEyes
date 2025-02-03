@@ -1,0 +1,26 @@
+img, video {
+  filter: sepia(0.15) hue-rotate(-5deg) !important;
+}
+
+pre, code {
+  background-color: #282520 !important;
+  color: #f4e8d8 !important;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fff8f0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d4c3b3;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #b3a090;
+}
