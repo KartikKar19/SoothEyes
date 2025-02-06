@@ -1,4 +1,4 @@
-# SoothEyes - Chrome Extension  
+# SoothEyes - Chrome Extension    
 
 A thoughtfully designed Chrome extension that automatically adjusts website colors to warmer tones, reducing eye strain for developers who spend long hours coding. Built with React, TypeScript, and Tailwind CSS.
 
